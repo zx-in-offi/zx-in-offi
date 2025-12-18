@@ -35,6 +35,10 @@ problem-solving and technical skills.
 
 ## Projects
 
+### Real-time Vehicle Licence Detection
+
+---
+
 ### AI-Powered Project Management System
 
 ---
